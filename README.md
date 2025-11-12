@@ -14,7 +14,8 @@ It was created as a **self-practice exercise** to strengthen front-end developme
 
 ## 📸 Preview
 > _Add screenshot or GIF here_  
-`(image placeholder)`
+<img width="947" height="437" alt="image" src="https://github.com/user-attachments/assets/0baa1705-cbc9-4f51-9e30-9176e32031da" />
+
 
 ## 📂 File Structure
 
