@@ -2,6 +2,8 @@
 This project is a simple restaurant menu page built using **HTML5** and **CSS**.  
 It was created as a **self-practice exercise** to strengthen front-end development skills, focusing on clean semantic HTML structure and modern CSS styling.
 
+This project uses CSS variables, flexbox, and grid to organize navigation, hero content, and menu cards in a simple and scalable way.
+
 ## ✨ Purpose
 - Practice writing clean & organized HTML5
 - Improve CSS layout and styling techniques
@@ -13,8 +15,8 @@ It was created as a **self-practice exercise** to strengthen front-end developme
 - **CSS**
 
 ## 📸 Preview
-> _Add screenshot or GIF here_  
-`(image placeholder)`
+<img width="947" height="437" alt="image" src="https://github.com/user-attachments/assets/0baa1705-cbc9-4f51-9e30-9176e32031da" />
+
 
 ## 📂 File Structure
 
@@ -36,6 +38,7 @@ You can open the `index.html` file in any modern web browser to view the page.
 ## 🚀 Future Improvements
  
 ## 🏁 Status
+✅ HTML/CSS completed
 
 ## 🙌 Acknowledgment
 This project is purely for learning and personal practice.
